@@ -1,4 +1,4 @@
-const ROVER_API = 'http://localhost:3000/api/rover';
+const ROVER_API = 'http://commandrover.herokuapp.com/api/rover';
 
 
 export const moveRover = async (direction) => {
